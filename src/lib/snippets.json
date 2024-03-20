@@ -1,0 +1,14 @@
+[
+  {
+    "command": "s/test",
+    "template": "Snippet test match wokrs fine"
+  },
+  {
+    "command": "s/word",
+    "template": "Hello, world!"
+  },
+  {
+    "command": "s/snack",
+    "template": "I love snacks prompts !"
+  }
+]
